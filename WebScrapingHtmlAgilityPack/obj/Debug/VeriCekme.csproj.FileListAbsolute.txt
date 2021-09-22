@@ -1,0 +1,16 @@
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\bin\Debug\VeriCekme.exe.config
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\bin\Debug\VeriCekme.exe
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\bin\Debug\VeriCekme.pdb
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\bin\Debug\HtmlAgilityPack.dll
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\bin\Debug\HtmlAgilityPack.xml
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.csproj.AssemblyReference.cache
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.Properties.Resources.resources
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.csproj.GenerateResource.cache
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.csproj.CoreCompileInputs.cache
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.csproj.CopyComplete
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.exe
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.pdb
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.LboxHurriyet.resources
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.books.resources
+C:\Users\berfim.korkmaz\source\repos\VeriCekme\VeriCekme\obj\Debug\VeriCekme.w3school.resources
